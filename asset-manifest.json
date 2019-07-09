@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Coin-Toss-React-GH/static/css/main.544c0aec.chunk.css",
+    "main.js": "/Coin-Toss-React-GH/static/js/main.c843f5dd.chunk.js",
+    "main.js.map": "/Coin-Toss-React-GH/static/js/main.c843f5dd.chunk.js.map",
+    "runtime~main.js": "/Coin-Toss-React-GH/static/js/runtime~main.9b6f0102.js",
+    "runtime~main.js.map": "/Coin-Toss-React-GH/static/js/runtime~main.9b6f0102.js.map",
+    "static/js/2.6e39e941.chunk.js": "/Coin-Toss-React-GH/static/js/2.6e39e941.chunk.js",
+    "static/js/2.6e39e941.chunk.js.map": "/Coin-Toss-React-GH/static/js/2.6e39e941.chunk.js.map",
+    "index.html": "/Coin-Toss-React-GH/index.html",
+    "precache-manifest.0d3fbc9c73d8a831c6b3afdd3bea1cc2.js": "/Coin-Toss-React-GH/precache-manifest.0d3fbc9c73d8a831c6b3afdd3bea1cc2.js",
+    "service-worker.js": "/Coin-Toss-React-GH/service-worker.js",
+    "static/css/main.544c0aec.chunk.css.map": "/Coin-Toss-React-GH/static/css/main.544c0aec.chunk.css.map",
+    "static/media/heads.jpg": "/Coin-Toss-React-GH/static/media/heads.d1fcead4.jpg",
+    "static/media/tails.jpg": "/Coin-Toss-React-GH/static/media/tails.3fb05e9d.jpg"
+  }
+}
